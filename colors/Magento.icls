@@ -65,6 +65,11 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="9b9cff" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3a2323" />
@@ -288,7 +293,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="89b2d2" />
+        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">

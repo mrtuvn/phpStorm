@@ -2,7 +2,10 @@
   <component name="FileTypeManager" version="14">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="foo" type="C#" />
       <mapping ext="cshtml" type="HTML" />
+      <mapping ext="php" type="HTML" />
+      <removed_mapping ext="php" type="PHP" />
       <mapping pattern="tutorial.js" type="PLAIN_TEXT" />
       <mapping ext="svg" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
