@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta o" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift ctrl meta g" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
@@ -21,6 +24,7 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
+  <action id="FindPrevious" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
   </action>
@@ -42,14 +46,32 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="NewScratchFile" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="shift ctrl meta close_bracket" />
+  </action>
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="shift ctrl meta open_bracket" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="SendEOF" />
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl meta l" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl meta quote" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
