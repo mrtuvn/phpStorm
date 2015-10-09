@@ -12,6 +12,9 @@
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Diff.UpdatedFiles" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
