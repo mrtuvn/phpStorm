@@ -1,4 +1,7 @@
 <keymap version="1" name="MacBook Pro" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Commit">
+    <keyboard-shortcut first-keystroke="shift ctrl meta o" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
@@ -21,6 +24,21 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
   </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift ctrl meta f" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift ctrl meta p" />
+  </action>
+  <action id="Git.Revert">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
+  <action id="Git.Stash">
+    <keyboard-shortcut first-keystroke="shift ctrl meta y" />
+  </action>
+  <action id="Git.Unstash">
+    <keyboard-shortcut first-keystroke="shift ctrl meta u" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
@@ -30,5 +48,8 @@
   </action>
   <action id="SendEOF" />
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl meta quote" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
