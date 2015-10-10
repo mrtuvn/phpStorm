@@ -6,7 +6,7 @@
       <option name="CONTINUATION_INDENT_SIZE" value="8" />
       <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
+      <option name="SMART_TABS" value="false" />
       <option name="LABEL_INDENT_SIZE" value="0" />
       <option name="LABEL_INDENT_ABSOLUTE" value="false" />
       <option name="USE_RELATIVE_INDENTS" value="false" />
@@ -18,19 +18,16 @@
   <codeStyleSettings language="Blade">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="CoffeeScript">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Gherkin">
@@ -48,65 +45,55 @@
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Twig">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
