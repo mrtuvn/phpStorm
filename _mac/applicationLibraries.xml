@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="libraryTable">
+    <library name="gruntjs-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gruntjs_gruntjs.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gruntjs_gruntjs.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jQuery UI-1.10.2">
       <CLASSES>
         <root url="file://$USER_HOME$/.WebIde70/system/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.10.2_jquery-ui.js" />
@@ -11,6 +21,21 @@
       <CLASSES>
         <root url="file://$USER_HOME$/.WebIde70/system/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
       </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-DefinitelyTyped" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jquery_jquery.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jquery_jquery.d.ts" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
       <SOURCES />
     </library>
     <library name="Node.js v0.10.4 Core Modules">
@@ -68,4 +93,3 @@
     </library>
   </component>
 </application>
-
