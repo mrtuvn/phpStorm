@@ -1,4 +1,7 @@
 <keymap version="1" name="MacBook Pro" parent="Mac OS X 10.5+">
+  <action id="ChangesView.ApplyPatch">
+    <keyboard-shortcut first-keystroke="shift ctrl meta a" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift ctrl meta o" />
   </action>
@@ -7,6 +10,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta g" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.History.Browse" />
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
@@ -18,12 +22,14 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
-  <action id="EditorDuplicate" />
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="EditorUnSelectWord">
-    <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
@@ -49,6 +55,8 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -56,18 +64,29 @@
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="shift ctrl meta close_bracket" />
   </action>
+  <action id="PerforceDirect.Edit" />
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="shift ctrl meta open_bracket" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="RecentChangedFiles" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="meta alt e" />
   </action>
   <action id="SendEOF" />
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl meta l" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl meta right" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -84,9 +103,15 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="ctrl meta y" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl meta quote" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift meta g" />
