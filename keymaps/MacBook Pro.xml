@@ -59,6 +59,7 @@
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="JumpToLastChange" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -109,6 +110,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta y" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="Unwrap">
+    <keyboard-shortcut first-keystroke="shift meta back_space" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl meta quote" />
   </action>
