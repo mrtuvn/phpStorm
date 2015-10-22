@@ -21,6 +21,8 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
@@ -59,7 +61,6 @@
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
-  <action id="JumpToLastChange" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -111,7 +112,7 @@
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Unwrap">
-    <keyboard-shortcut first-keystroke="shift meta back_space" />
+    <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl meta quote" />
