@@ -6,9 +6,9 @@
       <mapping ext="cshtml" type="HTML" />
       <mapping pattern=".babelrc" type="JSON" />
       <mapping pattern="tutorial.js" type="PLAIN_TEXT" />
-      <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="svg" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping pattern="test" type="XHTML" />
       <mapping pattern="dropdown" type="LESS" />
     </extensionMap>
