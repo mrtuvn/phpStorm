@@ -2,6 +2,7 @@
   <component name="FindSettings">
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,8 +15,8 @@
       <mask>*.js</mask>
       <mask>*.json</mask>
       <mask>*.sass</mask>
-      <mask>*.scss</mask>
       <mask>*.twig</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
