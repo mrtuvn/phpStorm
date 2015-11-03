@@ -14,6 +14,7 @@
       <mask>*.sass</mask>
       <mask>*.twig</mask>
       <mask>*.scss</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
