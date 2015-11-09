@@ -71,6 +71,11 @@
     <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/bplieshka/.WebIde80/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
     <ignored-resource url="http://www.laymix.com/schema/laymix.xsd" />
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="4.1.1" last-modified="1443017151000" />
+    <node-interpreter path="$USER_HOME$/.nvm/v0.10.40/bin/node" version="0.10.40" last-modified="1436477362000" />
+    <node-interpreter path="/usr/local/Cellar/node/4.1.1/bin/node" version="4.1.1" last-modified="1443017151000" />
+  </component>
   <component name="SvgViewer.Settings">
     <option name="PLUGIN_ENABLED" value="true" />
   </component>
