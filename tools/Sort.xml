@@ -1,9 +1,0 @@
-<toolSet name="Sort">
-  <tool name="CSScomb" description="CSScomb styles normilizer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\Program Files (x86)\PHP\php.exe" />
-      <option name="PARAMETERS" value="E:\Projects\plugins\csscomb.php $FilePath$" />
-      <option name="WORKING_DIRECTORY" value="E:/Projects/plugins" />
-    </exec>
-  </tool>
-</toolSet>
