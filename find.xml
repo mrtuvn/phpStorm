@@ -1,6 +1,6 @@
 <application>
   <component name="FindSettings">
-    <option name="FILE_MASK" value="*.twig" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -10,12 +10,12 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.js</mask>
       <mask>*.json</mask>
       <mask>*.sass</mask>
       <mask>*.php</mask>
       <mask>*.scss</mask>
       <mask>*.twig</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
