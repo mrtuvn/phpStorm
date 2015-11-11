@@ -1,11 +1,6 @@
 <application>
   <component name="libraryTable">
     <library name="gruntjs-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gruntjs_gruntjs.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gruntjs_gruntjs.d.ts" />
       </CLASSES>
@@ -26,9 +21,6 @@
     <library name="jquery-DefinitelyTyped" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jquery_jquery.d.ts" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/WebIde90/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jquery_jquery.d.ts" />
@@ -80,6 +72,30 @@
         <root url="file://$USER_HOME$/.WebIde60/system/extLibs/nodejs-v0.10.4-src/core-modules-sources/lib/child_process.js" />
         <root url="file://$USER_HOME$/.WebIde60/system/extLibs/nodejs-v0.10.4-src/core-modules-sources/lib/assert.js" />
         <root url="file://$USER_HOME$/.WebIde60/system/extLibs/nodejs-v0.10.4-src/core-modules-sources/lib/_stream_writable.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="react-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_react_react.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_react_react-global.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_react_react.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_react_react-global.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="react-router-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_react-router_react-router.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_react-router_react-router.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
