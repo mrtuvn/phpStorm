@@ -69,7 +69,6 @@
         <option name="FOREGROUND" value="769aa5" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="536c46" />
@@ -618,7 +617,6 @@
         <option name="BACKGROUND" value="5e6465" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.VALUE">
       <value>
         <option name="FOREGROUND" value="a5c25c" />
