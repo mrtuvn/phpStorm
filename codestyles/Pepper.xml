@@ -63,7 +63,7 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
-    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
