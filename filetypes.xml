@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="foo" type="C#" />
+      <mapping ext="cshtml" type="HTML" />
+      <mapping pattern=".babelrc" type="JSON" />
+      <mapping pattern="tutorial.js" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="svg" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="XHTML" />
+      <mapping pattern="dropdown" type="LESS" />
+    </extensionMap>
+  </component>
+</application>
