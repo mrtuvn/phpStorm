@@ -1,0 +1,38 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ChangesView.Commit">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
+  <action id="Git.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl alt quote" />
+  </action>
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="shift ctrl alt end" />
+  </action>
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="shift ctrl alt home" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+</keymap>
