@@ -1,4 +1,23 @@
 <application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>HTML</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -47,13 +66,49 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/bplieshka/.WebIde80/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/bplieshka/.WebIde80/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
+    <ignored-resource url="http://www.laymix.com/schema/laymix.xsd" />
+  </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="4.1.1" last-modified="1443017101000" />
-    <node-interpreter path="/usr/local/Cellar/node/0.12.7/bin/node" version="0.12.7" last-modified="1436492101000" />
+    <node-interpreter path="/usr/local/bin/node" version="4.1.1" last-modified="1443017151000" />
     <node-interpreter path="$USER_HOME$/.nvm/v0.10.40/bin/node" version="0.10.40" last-modified="1436477362000" />
-    <node-interpreter path="/usr/local/Cellar/node/4.1.1/bin/node" version="4.1.1" last-modified="1443017101000" />
+    <node-interpreter path="/usr/local/Cellar/node/4.1.1/bin/node" version="4.1.1" last-modified="1443017151000" />
   </component>
   <component name="SvgViewer.Settings">
     <option name="PLUGIN_ENABLED" value="true" />
+  </component>
+  <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="C:\Projects\_patches">
+    <option name="PATCH_STORAGE_LOCATION" value="C:\Projects\_patches" />
+  </component>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="attributes">
+      <TextAttributes />
+    </option>
+    <option name="contextAttributes">
+      <TextAttributes />
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerExImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
 </application>
